@@ -1,0 +1,22 @@
+.connect {
+  background-color: rgb(107, 144, 255);
+  border-radius: 10px;
+  border: 3px solid #d2691e;
+  padding: 10px;
+  float: left;
+  display: block;
+  margin: 10px 15px;
+  font-size: 14px;
+}
+
+
+.disconn {
+  font-size: 14px;
+  float: left;
+  display: block;
+  background-color: red;
+  border-radius: 10px;
+  border: 2px solid #9932cc;
+  padding: 10px;
+  margin-top: 10px;
+}
